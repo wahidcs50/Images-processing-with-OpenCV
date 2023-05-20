@@ -5,3 +5,6 @@ This technique segments the input image into different regions based on color, t
 # Before and after examples:
 Befor
 ![My Image](g.PNG)
+After
+
+![My Image](gg.PNG)
