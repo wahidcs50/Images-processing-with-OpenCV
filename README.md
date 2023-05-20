@@ -6,9 +6,9 @@ This technique segments the input image into different regions based on color, t
 # Befor
 ![My Image](g.PNG)
 # After
-
 ![My Image](gg.PNG)
-
 # Image processing for Edge detection
 This technique detects and highlights objects of interest in the input image using diferent filters for example Laplacian, Sobel, Cany Filter and prewitt.
 # Before and after examples
+![Detection](https://github.com/monly98/Images-processing-with-OpenCV/assets/93678291/210b7bb1-fe2b-4bc4-b156-b830980f06f1)
+
