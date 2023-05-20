@@ -1,2 +1,2 @@
 # Images-processing with OpenCV
- A GitHub repository for image processing and segmentation algorithms, models, and datasets, enabling research, development, and practical applications in computer vision and medical imaging.
+This project is an implementation of computer vision tasks using the OpenCV library. It includes various examples and applications that demonstrate the capabilities of OpenCV for image processing, object detection, and more.
