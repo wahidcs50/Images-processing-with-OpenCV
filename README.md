@@ -8,3 +8,5 @@ This technique segments the input image into different regions based on color, t
 # After
 
 ![My Image](gg.PNG)
+
+# Images processing for Edge detection
