@@ -19,6 +19,8 @@ Image filters play a vital role in various image processing tasks, such as noise
 # Average Filter
 The average filter is a simple and effective technique used in image processing to reduce noise and blur images. It works by replacing each pixel's value with the average of its neighboring pixels, typically within a square or rectangular window.
 The average filter is widely used because of its simplicity and ability to preserve the overall image structure while reducing high-frequency noise. It is especially useful for smoothing images and preparing them for further analysis or visualization.
+
+
 ![sm1](https://github.com/monly98/Images-processing-with-OpenCV/assets/93678291/29906b80-dcbe-4d9c-9dde-60a4b011a602)
 
 # Median Filter
