@@ -5,9 +5,7 @@ This repository focuses on utilizing OpenCV, a popular open-source computer visi
 2 Image processing for Edge detection
 This technique segments the input image into different regions based on color, texture, or other visual characteristics.
 # Before and after examples:
-# Befor
 ![My Image](g.PNG)
-# After
 ![My Image](gg.PNG)
 # Image processing for Edge detection
 This technique detects and highlights objects of interest in the input image using diferent filters for example Laplacian, Sobel, Cany Filter and prewitt.
