@@ -3,8 +3,8 @@ This project is an implementation of computer vision tasks using the OpenCV libr
 # Images-processing-for-segmentaiton
 This technique segments the input image into different regions based on color, texture, or other visual characteristics.
 # Before and after examples:
-Befor
+#Befor
 ![My Image](g.PNG)
-After
+#After
 
 ![My Image](gg.PNG)
