@@ -1,6 +1,8 @@
 # Images-processing with OpenCV
 This repository focuses on utilizing OpenCV, a popular open-source computer vision library, for various image processing tasks. OpenCV provides a wide range of functions and algorithms specifically designed for image processing, making it a powerful tool for developing image processing applications such as object detection, image smoothing image segmentation and more.
-# Image-processing for segmentaiton
+# contents
+1 Image processing for Edge detection
+2 Image processing for Edge detection
 This technique segments the input image into different regions based on color, texture, or other visual characteristics.
 # Before and after examples:
 # Befor
