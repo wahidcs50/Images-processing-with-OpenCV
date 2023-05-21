@@ -36,4 +36,8 @@ The maximum filter, also known as dilation, replaces each pixel in an image with
 # Histogram Equalization
 Histogram equalization is a technique used to enhance the contrast and improve the overall appearance of an image. It redistributes the pixel intensities in an image to achieve a more balanced histogram, resulting in improved visual quality.
 ![equ](https://github.com/monly98/Images-processing-with-OpenCV/assets/93678291/3bc05318-64e5-4143-b077-40323f9a0b04)
+# Image processing with frequency domain filters
 
+Image processing in the frequency domain involves transforming an image from the spatial domain to the frequency domain using techniques such as the Fast Fourier Transform (FFT). Frequency domain filters can then be applied to the transformed image to achieve desired effects such as noise removal, sharpening, or blurring.
+
+This repository provides implementation of high pass and low pass filters, which are commonly used in frequency domain filtering. High pass filters allow for preserving and enhancing high-frequency components, while low pass filters enable smoothing and preserving low-frequency information in an image.
