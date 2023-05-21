@@ -58,3 +58,11 @@ This repository provides implementation of high pass and low pass filters, which
 ![ghp1](https://github.com/monly98/Images-processing-with-OpenCV/assets/93678291/622c151a-4bbb-4abc-adf5-febd90fa93bb)
 ![Ghpf2](https://github.com/monly98/Images-processing-with-OpenCV/assets/93678291/0f530c14-5d0a-4218-809c-b2aa5a26d70b)
 
+# Morphological image processing with opening-and-closing
+Opening and closing operations are fundamental techniques in morphological image processing. They are used to improve image quality, remove noise, and modify the shape and connectivity of objects in an image.
+
+Opening is a two-step operation that involves applying an erosion operation followed by a dilation operation. It is useful for removing small objects, thin lines, and noise from an image while preserving the larger structures.
+
+Closing, on the other hand, is the reverse of opening. It consists of a dilation operation followed by an erosion operation. Closing is effective for filling small holes, joining broken structures, and smoothing the boundaries of objects.
+
+This repository provides implementation of opening and closing operations, allowing you to apply these morphological operations to your images.
