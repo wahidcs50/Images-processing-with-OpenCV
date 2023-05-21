@@ -12,7 +12,7 @@ This technique detects and highlights objects of interest in the input image usi
 # Before and after examples
 ![Detection](https://github.com/monly98/Images-processing-with-OpenCV/assets/93678291/210b7bb1-fe2b-4bc4-b156-b830980f06f1)
 # Image processing with Smoothing filters
-Image filters play a vital role in various image processing tasks, such as noise reduction, feature enhancement, and image restoration. This repository provides efficient implementations of popular filters that can be easily integrated into your own projects.
+Image filters play a vital role in various image processing tasks, such as noise reduction, feature enhancement, and image restoration. The Smoothing_All_filters file provides efficient implementations of popular filters that can be easily integrated into your own projects.
 # Filters
 # Average Filter
 The average filter is a simple and effective technique used in image processing to reduce noise and blur images. It works by replacing each pixel's value with the average of its neighboring pixels, typically within a square or rectangular window.
@@ -40,7 +40,7 @@ Histogram equalization is a technique used to enhance the contrast and improve t
 
 Image processing in the frequency domain involves transforming an image from the spatial domain to the frequency domain using techniques such as the Fast Fourier Transform (FFT). Frequency domain filters such as ideal filter, betterworth filter, and gaussian filters with high pass and low pass frequencies can then be applied to the transformed image to achieve desired effects such as noise removal, sharpening, or blurring.
 
-This repository provides implementation of high pass and low pass filters, which are commonly used in frequency domain filtering. High pass filters allow for preserving and enhancing high-frequency components, while low pass filters enable smoothing and preserving low-frequency information in an image.
+The frequency_domain_filters file provides implementation of high pass and low pass filters, which are commonly used in frequency domain filtering. High pass filters allow for preserving and enhancing high-frequency components, while low pass filters enable smoothing and preserving low-frequency information in an image.
 # Ideal low pass filter
 ![IFlp](https://github.com/monly98/Images-processing-with-OpenCV/assets/93678291/bc8d1487-b2ce-4cd7-97e5-9ea22b91e26c)
 # Ideal high pass filter
@@ -65,4 +65,4 @@ Opening is a two-step operation that involves applying an erosion operation foll
 
 Closing, on the other hand, is the reverse of opening. It consists of a dilation operation followed by an erosion operation. Closing is effective for filling small holes, joining broken structures, and smoothing the boundaries of objects.
 
-This repository provides implementation of opening and closing operations, allowing you to apply these morphological operations to your images.
+The morphological_processing_with_opening_and_closing_task file provides implementation of opening and closing operations, allowing you to apply these morphological operations to your images.
