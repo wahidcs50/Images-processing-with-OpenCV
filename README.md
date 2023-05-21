@@ -38,6 +38,23 @@ Histogram equalization is a technique used to enhance the contrast and improve t
 ![equ](https://github.com/monly98/Images-processing-with-OpenCV/assets/93678291/3bc05318-64e5-4143-b077-40323f9a0b04)
 # Image processing with frequency domain filters
 
-Image processing in the frequency domain involves transforming an image from the spatial domain to the frequency domain using techniques such as the Fast Fourier Transform (FFT). Frequency domain filters can then be applied to the transformed image to achieve desired effects such as noise removal, sharpening, or blurring.
+Image processing in the frequency domain involves transforming an image from the spatial domain to the frequency domain using techniques such as the Fast Fourier Transform (FFT). Frequency domain filters such as ideal filter, betterworth filter, and gaussian filters with high pass and low pass frequencies can then be applied to the transformed image to achieve desired effects such as noise removal, sharpening, or blurring.
 
 This repository provides implementation of high pass and low pass filters, which are commonly used in frequency domain filtering. High pass filters allow for preserving and enhancing high-frequency components, while low pass filters enable smoothing and preserving low-frequency information in an image.
+# Ideal low pass filter
+![IFlp](https://github.com/monly98/Images-processing-with-OpenCV/assets/93678291/bc8d1487-b2ce-4cd7-97e5-9ea22b91e26c)
+# Ideal high pass filter
+![ifhp](https://github.com/monly98/Images-processing-with-OpenCV/assets/93678291/d0f07055-a013-49de-bdec-ffb2e39655f7)
+# Betterworth low pass filter
+![Bwlp](https://github.com/monly98/Images-processing-with-OpenCV/assets/93678291/f6c73b3e-8dff-4e6a-997b-c39a581d17f3)
+
+# Betterworth high pass filter
+![BWhp](https://github.com/monly98/Images-processing-with-OpenCV/assets/93678291/4550a660-25a6-4d25-8b56-e8b66e84fb2a)
+
+# Gussian low pass filter
+![GLp](https://github.com/monly98/Images-processing-with-OpenCV/assets/93678291/f4cf3b1a-8f97-4a7e-abb4-5f8d3013f46c)
+
+# Gussian high pass filter
+![ghp1](https://github.com/monly98/Images-processing-with-OpenCV/assets/93678291/622c151a-4bbb-4abc-adf5-febd90fa93bb)
+![Ghpf2](https://github.com/monly98/Images-processing-with-OpenCV/assets/93678291/0f530c14-5d0a-4218-809c-b2aa5a26d70b)
+
