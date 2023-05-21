@@ -66,3 +66,19 @@ Opening is a two-step operation that involves applying an erosion operation foll
 Closing, on the other hand, is the reverse of opening. It consists of a dilation operation followed by an erosion operation. Closing is effective for filling small holes, joining broken structures, and smoothing the boundaries of objects.
 
 The morphological_processing_with_opening_and_closing_task file provides implementation of opening and closing operations, allowing you to apply these morphological operations to your images.
+# Opening and closing
+![opening](https://github.com/monly98/Images-processing-with-OpenCV/assets/93678291/721c6e19-3b4f-4320-a8b5-9c518aad6008)
+![closing](https://github.com/monly98/Images-processing-with-OpenCV/assets/93678291/7d25e01f-e31c-4471-a971-b767520492b0)
+
+
+# Errosion and dilation
+![errosion](https://github.com/monly98/Images-processing-with-OpenCV/assets/93678291/67775645-e8dc-41b0-8d43-7bf0e3542a5e)
+![dilation](https://github.com/monly98/Images-processing-with-OpenCV/assets/93678291/14f118cf-6c6c-48dd-aa80-6609d0848bea)
+
+# Contour detection and extraction
+![contours-detection](https://github.com/monly98/Images-processing-with-OpenCV/assets/93678291/7d![contours-extraction](https://github.com/monly98/Images-processing-with-OpenCV/assets/93678291/b8675f6b-8b59-4605-8561-4283bab16aa9)
+8c63de-6923-41ea-ac6e![contours-extraction1](https://github.com/monly98/Images-processing-with-OpenCV/assets/93678291/073ba875-edda-422f-93d5-51ad1fe593d1)
+-a432e475fd5c)
+![contours-extraction2](https://github.com/monly98/Images-processing-with-OpenCV/assets/93678291/e0555c09-2c03-4241-8311-6cee9f06c907)
+
+
