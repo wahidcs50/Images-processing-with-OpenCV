@@ -76,9 +76,9 @@ The morphological_processing_with_opening_and_closing_task file provides impleme
 ![dilation](https://github.com/monly98/Images-processing-with-OpenCV/assets/93678291/14f118cf-6c6c-48dd-aa80-6609d0848bea)
 
 # Contour detection and extraction
-![contours-detection](https://github.com/monly98/Images-processing-with-OpenCV/assets/93678291/7d
-![contours-extraction](https://github.com/monly98/Images-processing-with-OpenCV/assets/93678291/b8675f6b-8b59-4605-8561-4283bab16aa9)
-8c63de-6923-41ea-ac6e
+![contours-detection](https://github.com/monly98/Images-processing-with-OpenCV/assets/93678291/7d)
+![contours-extraction](https://github.com/monly98/Images-processing-with-OpenCV/assets/93678291/b8675f6b-8b59-4605-8561-4283bab16aa9
+8c63de-6923-41ea-ac6e)
 ![contours-extraction1](https://github.com/monly98/Images-processing-with-OpenCV/assets/93678291/073ba875-edda-422f-93d5-51ad1fe593d1)
 -a432e475fd5c)
 ![contours-extraction2](https://github.com/monly98/Images-processing-with-OpenCV/assets/93678291/e0555c09-2c03-4241-8311-6cee9f06c907)
